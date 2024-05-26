@@ -1,0 +1,33 @@
+#bot{
+    order: 5;
+}
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+main-main{
+    margin: 0 auto;
+    margin-top: 50px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1920px;
+}
+canvas{
+    width: 100%;
+}
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+}
+header{
+    width: 100%;
+}
+header img{
+    width: 100%;
+}
